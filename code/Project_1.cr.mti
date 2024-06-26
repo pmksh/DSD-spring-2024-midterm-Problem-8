@@ -1,0 +1,29 @@
+D:/Uni/dsd/extraProject/test_bench_2.v {1 {vlog -work work {D:\Uni\dsd\extraProject\test_bench_2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Parking_test_2
+
+Top level modules:
+	Parking_test_2
+
+} {} {}} D:/Uni/dsd/extraProject/test_bench_3.v {1 {vlog -work work {D:\Uni\dsd\extraProject\test_bench_3.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Parking_test_3
+
+Top level modules:
+	Parking_test_3
+
+} {} {}} D:/Uni/dsd/extraProject/parking_module.v {1 {vlog -work work {D:\Uni\dsd\extraProject\parking_module.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Parking
+
+Top level modules:
+	Parking
+
+} {} {}} D:/Uni/dsd/extraProject/test_bench.v {1 {vlog -work work {D:\Uni\dsd\extraProject\test_bench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Parking_test
+
+Top level modules:
+	Parking_test
+
+} {} {}}

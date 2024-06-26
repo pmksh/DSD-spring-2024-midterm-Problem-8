@@ -1,0 +1,124 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Uni\dsd\S4\P1
+vcounter
+Z1 I=fBZ4kI1`Ge9ckC;W5FTD1
+Z2 VI[Q8FO@6zEBmQa^il66Bh3
+Z3 dD:\Uni\dsd\extraProject
+Z4 w1719334723
+Z5 8D:\Uni\dsd\extraProject\counter.v
+Z6 FD:\Uni\dsd\extraProject\counter.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 C?X6Hj4Qn7W<>FHVR`;K=1
+Z10 !s108 1719334738.073000
+Z11 !s107 D:\Uni\dsd\extraProject\counter.v|
+Z12 !s90 -reportprogress|300|-work|work|D:\Uni\dsd\extraProject\counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vParking
+Z13 !s100 3=lc8AQ3D>BzA;jCiGG[a3
+Z14 I^i]_iC13RcdVJ5M=SN[Ql0
+Z15 V9U[F11d<mATDK:6AWXXd=2
+R3
+Z16 w1719415799
+Z17 8D:\Uni\dsd\extraProject\parking_module.v
+Z18 FD:\Uni\dsd\extraProject\parking_module.v
+L0 1
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:\Uni\dsd\extraProject\parking_module.v|
+R8
+Z20 n@parking
+Z21 !s108 1719416398.303000
+Z22 !s107 D:\Uni\dsd\extraProject\parking_module.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vParking_test
+Z23 !s100 87A17CZ7OQiN0MPhMgdk^1
+Z24 I1CcU:07VEi?7jiMdCJm2B0
+Z25 VkizEDWoE5Ve8`TQ6iZK:]3
+R3
+Z26 w1719414865
+Z27 8D:\Uni\dsd\extraProject\test_bench.v
+Z28 FD:\Uni\dsd\extraProject\test_bench.v
+L0 1
+R7
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|D:\Uni\dsd\extraProject\test_bench.v|
+R8
+Z30 n@parking_test
+Z31 !s108 1719416398.775000
+Z32 !s107 D:\Uni\dsd\extraProject\test_bench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vParking_test_2
+Z33 !s100 L<Fmm5WcUc<cIdY]cfXB43
+Z34 I@G9EcDzAXHh[@M9Tlk=iR1
+Z35 Vae89z^L?9D[Yi9EFe_2Tg3
+R3
+Z36 w1719414693
+Z37 8D:\Uni\dsd\extraProject\test_bench_2.v
+Z38 FD:\Uni\dsd\extraProject\test_bench_2.v
+L0 2
+R7
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|D:\Uni\dsd\extraProject\test_bench_2.v|
+R8
+Z40 n@parking_test_2
+Z41 !s108 1719416399.061000
+Z42 !s107 D:\Uni\dsd\extraProject\test_bench_2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vParking_test_3
+Z43 !s100 BW:TiBNF^F50]mAco`CB]1
+Z44 Ik_CHA:KMmoQRPV:1DnK7K2
+Z45 VALna0@ofIBmgzB:K`1Ie`0
+R3
+Z46 w1719415981
+Z47 8D:\Uni\dsd\extraProject\test_bench_3.v
+Z48 FD:\Uni\dsd\extraProject\test_bench_3.v
+L0 1
+R7
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|D:\Uni\dsd\extraProject\test_bench_3.v|
+R8
+Z50 n@parking_test_3
+!i10b 1
+!s85 0
+Z51 !s108 1719416399.345000
+Z52 !s107 D:\Uni\dsd\extraProject\test_bench_3.v|
+!s101 -O0
+vParking_test_4
+!i10b 1
+!s100 OcDe<0`n7En7Cg51`G2bU1
+Io?WdF@I=VZllM5oQa;lk90
+VR?l789PcN3ZW:ZLl3cUo^1
+R3
+w1719416393
+8D:\Uni\dsd\extraProject\test_bench_4.v
+FD:\Uni\dsd\extraProject\test_bench_4.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1719416399.739000
+!s107 D:\Uni\dsd\extraProject\test_bench_4.v|
+!s90 -reportprogress|300|-work|work|D:\Uni\dsd\extraProject\test_bench_4.v|
+!s101 -O0
+R8
+n@parking_test_4
